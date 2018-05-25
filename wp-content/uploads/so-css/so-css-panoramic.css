@@ -1,0 +1,32 @@
+#masthead.site-header.panoramic-header-layout-standard {
+  margin: 0px;
+  background-color: #ebebdf;
+}
+
+.site-footer-widgets {
+  background-color: #ebebdf;
+}
+
+.site-content {
+  background-color: #ffffff;
+  text-transform: none;
+  text-align: justify;
+  text-indent: 0px;
+}
+
+#primary.content-area.full-width {
+  background-color: #ffffff;
+  margin: -15px;
+}
+
+.entry-content {
+  font-size: 1.2em;
+}
+
+.elementor-element.elementor-element-3f987ef6.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section-content-middle.elementor-reverse-mobile.elementor-section.elementor-top-section {
+  margin-top: -0px;
+}
+
+.elementor-element.elementor-element-4ca3acac.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default.elementor-section-content-middle.elementor-section.elementor-top-section {
+  margin-top: -60px;
+}
